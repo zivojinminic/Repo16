@@ -1,0 +1,70 @@
+#header {
+    font-size: 40px;
+    margin-left: 40px;
+    border-bottom: 1px solid;
+    padding-bottom: 10px;
+}
+
+#navbar {
+    width: 510px;
+    border-right: 1px solid;
+}
+
+.nav-links {
+    padding-bottom: 30px;
+    list-style: none;
+    border-bottom: 1px solid;
+    padding-bottom: 25px;
+    margin-top: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+#header-img {
+    margin-left: 5px;
+    list-style: none;
+}
+
+main header {
+    font-size: 30px;
+}
+
+main #introduction {
+    position: absolute;
+    top: 0;
+    left: 560px;
+}
+
+main #values_types_and_operators {
+    position: absolute;
+    left: 560px;
+    top: 510px;
+}
+
+main #program_structure {
+    position: absolute;
+    left: 560px;
+    top: 700px;
+}
+
+main #functions {
+    position: absolute;
+    left: 560px;
+    top: 950px;
+}
+
+main #objects_and_arrays {
+    position: absolute;
+    left: 560px;
+    top: 1290px;
+}
+
+main #higher_order_functions {
+    position: absolute;
+    left: 560px;
+    top: 1520px;
+}
