@@ -3,5 +3,5 @@ exports.firstName = (firstName) => {
 }
 
 exports.lastName = (lastName) => {
-    return lastName.toUpperCase();
+    return lastName.toLowerCase();
 }
